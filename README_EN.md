@@ -10,7 +10,11 @@ Style inspiration is from `JetBrains IntelliJ Platform` plugin [Rider UI Theme P
 
 [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono) font is recommended.
 
-> The `JetBrains` 、`Rider` and `ReSharper` trademarks of this project are the property of [JetBrains](https://www.jetbrains.com) .
+## Notice
+
+> The `JetBrains` 、`Rider` 、`ReSharper` and `WebStorm` trademarks of this project are the property of [JetBrains](https://www.jetbrains.com).
+>
+> In case of second creation, please abide by [JetBrain Brand Guidelines](https://www.jetbrains.com/company/brand/) and [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
 ## License
 
